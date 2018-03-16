@@ -1,3 +1,9 @@
 # QuizletMatchBot.js
-#A Quizlet cheat for the match game.
-#I don't know JS, so this bot probably does not work.
+Quizlet Match Game Cheat coded in JavaScript.
+-
+-
+-
+-
+-
+-
+I don't know JS, so don't be surprised if this doesn't work.
