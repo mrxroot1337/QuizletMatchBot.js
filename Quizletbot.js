@@ -1,3 +1,4 @@
+#quizlet match bot by MrxRoot
 $("button.UIButton.UIButton--hero").trigger("click");
 var terms = $("a.cell[data-type=term]"), definitions = $("a.cell[data-type=definition]");
 setInterval(function() {
